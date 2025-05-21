@@ -6,7 +6,7 @@ library(magrittr)
 library(dplyr)
 
 camera_urls <- c(
-  "http://192.168.249.112:8080/video",
+  "http://10.77.9.177:8080/video",
   "http://192.168.249.113:8080/video",
   "http://192.168.249.114:8080/video",
   "http://192.168.249.115:8080/video",
